@@ -10,7 +10,7 @@
 <br/>
 
 # 💫 About Me:
-🔭 I'm currently working on **SpringBoot Project**<br>🌱 I’m currently learning **Backend from scratch** <br>👯 I'm looking to collaborate on **Real World And Open Source Projects** <br> 📫 How to reach me <a href="mailto:aviraj0403@gmail.com"><b>aviraj0403@gmail.com</b></a> <br><br>
+🔭 I'm currently working on **MERN STACK**<br>🌱 I’m currently learning **Backend from scratch** <br>👯 I'm looking to collaborate on **Real World And Open Source Projects** <br> 📫 How to reach me <a href="mailto:aviraj0403@gmail.com"><b>aviraj0403@gmail.com</b></a> <br><br>
 
 
 ## 🌐 Socials:
