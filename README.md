@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avi+Raj!;" />
 </h1>
 
-<h3 align="center">A passionate Backend developer </h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <br/>
 
 # 💫 About Me:
-🔭 I'm currently working on **MERN STACK**<br>
-🌱 I’m currently learning **Backend from scratch** <br>
-👯 I'm looking to collaborate on **Real World And Open Source Projects** <br>
+🔭 I'm currently working on a **SaaS Project**<br>
+🌱 I’m currently learning **NestJS** from scratch and diving deeper into **DevOps**, **CI/CD** pipelines, and **Nginx**.<br>
+👯 I'm looking to collaborate on **Real-World & Open Source Projects**, especially those in the **Backend & DevOps** space.<br>
 📫 How to reach me: <a href="mailto:aviraj0403@gmail.com"><b>aviraj0403@gmail.com</b></a> <br><br>
 
 ## 🌐 Socials:
@@ -25,13 +25,20 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%236DB33F.svg?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%2381F7F3.svg?style=flat&logo=CircleCI&logoColor=white) 
+![DevOps](https://img.shields.io/badge/DevOps-%23000000.svg?style=flat&logo=devops&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 
 <div align="center">
 <hr/>
