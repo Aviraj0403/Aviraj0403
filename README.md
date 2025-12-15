@@ -9,72 +9,55 @@
 <br/>
 
 # 💫 About Me:
-🔭 I'm currently working on a **SaaS Project**<br>
-🌱 I’m currently learning **NestJS** from scratch and diving deeper into **DevOps**, **CI/CD** pipelines, and **Nginx**.<br>
-👯 I'm looking to collaborate on **Real-World & Open Source Projects**, especially those in the **Backend & DevOps** space.<br>
-📫 How to reach me: <a href="mailto:aviraj0403@gmail.com"><b>aviraj0403@gmail.com</b></a> <br><br>
+🔭 I'm currently working on a **SaaS Project**  
+🌱 I’m learning **NestJS** from scratch and diving deeper into **DevOps**, **CI/CD** pipelines, and **Nginx**  
+👯 I'm looking to collaborate on **Real-World & Open Source Projects**, especially those in the **Backend & DevOps** space  
+📫 Reach me via email: [aviraj0403@gmail.com](mailto:aviraj0403@gmail.com)
+
+## 🚀 My Learning Journey:
+🔍 **Learning NestJS** from scratch – diving deeper into the backend ecosystem.  
+📚 **Currently exploring DevOps**, focusing on containerization, deployment strategies, and CI/CD with tools like **Docker**, **Jenkins**, and **AWS**.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aviraj0403) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-raj-98b820226/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aviraj0403)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-raj-98b820226/)  
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Node.js](https://img.shields.io/badge/Node.js-%236DB33F.svg?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%2381F7F3.svg?style=flat&logo=CircleCI&logoColor=white) 
-![DevOps](https://img.shields.io/badge/DevOps-%23000000.svg?style=flat&logo=devops&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-
-<div align="center">
-<hr/>
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aviraj0403/aviraj0403/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![Node.js](https://img.shields.io/badge/Node.js-%236DB33F.svg?style=flat&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
 
 <hr/>
 
 # 📊 GitHub Stats:
-<br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=aviraj0403&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=aviraj0403&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
- <img width=390 src="https://github-readme-stats.vercel.app/api?username=aviraj0403&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
 
-  <br/>
+<div align="center">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraj0403&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<hr/>
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=aviraj0403&theme=flat&column=7&margin-w=4&no-frame=true&title=Followers,Repositories,Commits,Issues)
 
 <hr/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aviraj0403&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=aviraj0403&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 <!-- Add an animated badge -->
